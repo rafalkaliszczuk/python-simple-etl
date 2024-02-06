@@ -1,0 +1,4 @@
+,Controlling_Area,Company_Code,Cost_Object,Cost_Object_Type,Cost_Element,Year,Period,Currency,Amount,_Record_Source,_Load_Date,Error_Type
+0,WXYZ,1234,0000123456,Cost Center,9876543210,1999,1,USD,1500.5,Manual Upload.xlsx,2024-02-06 20:26:17,Invalid Year Format
+7,9876,4321,000008001,Cost Center,7890123456,2024,13,PLN,1950.6,Manual Upload.xlsx,2024-02-06 20:26:17,Invalid Period Format
+8,1234,WXYZ,000009001,WBS,9876543210,2022,14,USD,2100.7,Manual Upload.xlsx,2024-02-06 20:26:17,Invalid Period Format

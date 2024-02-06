@@ -1,0 +1,11 @@
+{
+    "Controlling_Area": "str",
+    "Company_Code": "str",
+    "Cost_Object": "str",
+    "Cost_Object_Type": "str",
+    "Cost_Element": "str",
+    "Year": "int",
+    "Period": "int",
+    "Currency": "str",
+    "Amount": "float"
+}
